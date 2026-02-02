@@ -1,2 +1,2 @@
 # chatbot-using-nlp
-skill4all edunet internship
+this is an project based on ai skill internship with aict 
